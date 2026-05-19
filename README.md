@@ -1,6 +1,6 @@
 # 📊 YouTube Creator Engagement & Optimization Analysis
 
-An executive-level Power BI Capstone project analyzing global YouTube engagement metrics and channel attributes. [cite_start]This analysis uncovers hidden viewer patterns, subscription behaviors, and content strategy benchmarks to help content creators and digital marketers maximize audience interaction on the platform[cite: 8, 10, 13].
+[cite_start]An executive-level Power BI Capstone project analyzing global YouTube engagement metrics and channel attributes[cite: 2, 8, 9]. [cite_start]This analysis uncovers hidden viewer patterns, subscription behaviors, and content strategy benchmarks to help content creators and digital marketers maximize audience interaction on the platform[cite: 8, 10, 13].
 
 ---
 
@@ -16,16 +16,16 @@ An executive-level Power BI Capstone project analyzing global YouTube engagement
 
 ## 🛠️ Project Core Deliverables & Solutions
 
-[cite_start]This end-to-end business intelligence project addresses key strategic metrics required by stakeholders, systematically completing all core technical requirements[cite: 17]:
+This end-to-end business intelligence project addresses key strategic metrics required by stakeholders, systematically completing all core technical requirements:
 
 1. [cite_start]**Strategic Key Performance Indicators (KPIs):** Integrated dedicated card containers to display critical platform scale metrics, including maximum channel uploads, minimum view rankings, and data-cleansed 30-day rolling average views[cite: 18, 19, 20].
-2. [cite_start]**Channel Scale Filtering:** Built a customized line chart isolating hyper-active creators with over 200,000 (2 Lakh) total uploads to evaluate high-volume consistency patterns[cite: 21].
+2. [cite_start]**Channel Scale Filtering:** Built a customized line chart isolating hyper-active creators with over 200,000 total uploads to evaluate high-volume consistency patterns.
 3. [cite_start]**Advanced Categorical Distributions:** Implemented specialized visuals including a **Radar Chart** to map channel types against platform ranking tiers, and a **Packed Bubble Chart** to cluster subscriber weights across content categories[cite: 22, 23].
-4. [cite_start]**Calculated Audience Interaction Metrics (DAX):** Engineered a custom metric to track true viewer efficiency per subscriber[cite: 24]:
+4. **Calculated Audience Interaction Metrics (DAX):** Engineered a custom metric to track true viewer efficiency per subscriber:
    $$\text{Viewed by Subscriber} = \text{DIVIDE}(\text{SUM}(\text{Views}), \text{SUM}(\text{Subscribers}), 0)$$
-   [cite_start]This metric is systematically mapped alongside channel types in an analytical table visual[cite: 25].
+   [cite_start]This metric is systematically mapped alongside channel types in an analytical table visual.
 5. [cite_start]**Interactive Root-Cause Exploration:** Leveraged a built-in **Decomposition Tree** visual allowing stakeholders to drill down and explore category hierarchies based entirely on global ranks[cite: 30].
-6. [cite_start]**Polished Navigation & Distribution:** Integrated seamless page navigation buttons for fluid report storytelling, fully formatted with branding layouts, and staged for enterprise deployment via the Power BI Service[cite: 30, 32, 33, 34].
+6. [cite_start]**Polished Navigation & Distribution:** Integrated seamless page navigation buttons for fluid report storytelling, fully formatted with branding layouts, and staged for enterprise deployment via the Power BI Service[cite: 30, 32, 33].
 
 ---
 
@@ -37,5 +37,5 @@ An executive-level Power BI Capstone project analyzing global YouTube engagement
 ---
 
 ## 📈 Key Portfolio Insights Discovered
-* **Upload Scale vs Rank:** Channels crossing the 200k upload threshold show a distinct correlation with specific corporate media/news structures rather than standard independent creator channels.
-* **True Value of a Subscriber:** High subscriber counts do not always translate to optimal "Viewed by Subscriber" metrics. Specific niche channel types maintain significantly higher relative interaction scores despite lower absolute follower metrics.
+* [cite_start]**Upload Scale vs Rank:** Channels crossing the 200k upload threshold show a distinct correlation with specific corporate media/news structures rather than standard independent creator channels.
+* [cite_start]**True Value of a Subscriber:** High subscriber counts do not always translate to optimal "Viewed by Subscriber" metrics[cite: 24]. [cite_start]Specific niche channel types maintain significantly higher relative interaction scores despite lower absolute follower metrics[cite: 25].
